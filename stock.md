@@ -10,7 +10,8 @@ IN THIS FILE GIVES WHAT FRUITS ARE PRESENT IN STOCK
 |   CUCUMBER	|  20KG |
 |   Jackfruit	|  50kg 	|
 |   Kaju	|   	400kg|
-|   Litchi      |   30kg |
+|lithchi | 530kg|
 |   Peach     |    60kg|
 |
+
 
