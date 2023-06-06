@@ -4,7 +4,7 @@ DATE:06/06/23
 
 |  FRUIT_NAME 	|  PRICE 	| QUANTITY| SALESMAN | PROFIT
 |---	|---|--- |---|--- |
-|  APPLE 	|  120 	| 20KG|BISHAL KUMAR|30|
+|  APPLE 	|  120 	| 20KG|BISHAL KUMAR|600|
 |   	|   	|
 |   	|   	|
 |   	|   	|
