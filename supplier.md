@@ -10,5 +10,15 @@ DATE:12/05/23
 |Mango  | 60  	| 35 Kg
 |Apple  | 120   | 65 Kg
 |Grapes | 170  	| 20Kg
-|   	|   	|
 
+Date:!3/05/23
+
+| FRUIT_NAME  	|   PRICE	| QUANTITY
+|---	|---	|--- |
+|   	|   	|    |
+|   	|   	|    |
+|   	|   	|    |
+|   	|   	|
+|   	|   	|
+|   	|   	|
+|   	|   	|
