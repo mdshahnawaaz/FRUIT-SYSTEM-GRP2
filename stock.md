@@ -6,7 +6,7 @@ IN THIS FILE GIVES WHAT FRUITS ARE PRESENT IN STOCK
 |   	APPLE|   200 KG	|
 |   BANANA	|   170 PIECES	|
 |   GUAVA	|   20 KG	|
-|   	|   	|
-|   	|   	|
+|  WATERMELON 	|   50KG	|
+|   CUCUMBER	|  20KG |
 |   	|   	|
 |   	|   	|
