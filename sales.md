@@ -11,5 +11,6 @@ DATE:12/05/23
 |   	|   	|
 |   	|   	|
 |   	|   	|
-\
-TOTAL PROFIT ON 12/05/23 IS -----\
+
+
+TOTAL PROFIT ON 12/05/23 IS -----
