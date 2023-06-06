@@ -13,7 +13,7 @@ IN THIS FILE GIVES WHAT FRUITS ARE PRESENT IN STOCK
 |    gdieqfwe   | 08|
 |LITHCHI | 530kg|
 |   PEACH     |    60kg|
-|
+|Papaya  |50kg |
 
 
 
