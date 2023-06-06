@@ -12,6 +12,6 @@ IN THIS FILE GIVES WHAT FRUITS ARE PRESENT IN STOCK
 |   Kaju	|   	400kg|
 |lithchi | 530kg|
 |   Peach     |    60kg|
-|
+|    gdieqfwe  | 08
 
 
