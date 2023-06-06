@@ -9,8 +9,6 @@ DATE:12/05/23
 |Grapes | 170   | 85 Kg
 |Mango  | 60  	| 35 Kg
 |Apple  | 120   | 65 Kg
+|Grapes | 170  	| 20Kg
 |   	|   	|
-|   	|   	|
-
-
 
