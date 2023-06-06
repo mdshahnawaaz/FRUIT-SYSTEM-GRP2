@@ -8,5 +8,7 @@ IN THIS FILE GIVES WHAT FRUITS ARE PRESENT IN STOCK
 |   GUAVA	|   20 KG	|
 |  WATERMELON 	|   50KG	|
 |   CUCUMBER	|  20KG |
-|   	|   	|
-|   	|   	|
+|   Jackfruit	|  50kg 	|
+|   Kaju	|   	400kg|
+|
+
