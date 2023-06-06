@@ -1,5 +1,5 @@
 THIS TABLE WILL GIVES  DAILY SUPPLIER HISTORY OF THR FRUIT\
-\
+
 DATE:12/05/23
 
 |  FRUIT_NAME 	|  PRICE 	| QUANTITY| 
@@ -11,7 +11,7 @@ DATE:12/05/23
 |Apple  | 120   | 65 Kg
 |Grapes | 170  	| 20Kg
 
-Date:!3/05/23
+Date:13/05/23
 
 | FRUIT_NAME  	|   PRICE	| QUANTITY
 |---	|---	|--- |
