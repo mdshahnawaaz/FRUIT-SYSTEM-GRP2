@@ -3,7 +3,7 @@ IN THIS FILE GIVES WHAT FRUITS ARE PRESENT IN STOCK
 
 |  FRUIT NAME 	|   	QUANTITY|
 |---	|---	|
-|   	APPLE|   365 Kg	|
+|   	APPLE|   345 Kg	|
 |   BANANA	|   215 PIECES	|
 |   GUAVA	|   20 Kg	|
 |  WATERMELON 	|   50 Kg	|
