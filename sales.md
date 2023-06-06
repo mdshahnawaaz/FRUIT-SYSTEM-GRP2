@@ -2,9 +2,9 @@ THIS TABLE WILL GIVES  DAILY SALES HISTORY OF THR FRUIT\
 
 DATE:06/06/23
 
-|  FRUIT_NAME 	|  PRICE 	| QUANTITY| SALESMAN |
-|---	|---|--- |---|
-|  APPLE 	|  120 	| 20KG|BISHAL KUMAR|
+|  FRUIT_NAME 	|  PRICE 	| QUANTITY| SALESMAN | PROFIT
+|---	|---|--- |---|--- |
+|  APPLE 	|  120 	| 20KG|BISHAL KUMAR|30|
 |   	|   	|
 |   	|   	|
 |   	|   	|
