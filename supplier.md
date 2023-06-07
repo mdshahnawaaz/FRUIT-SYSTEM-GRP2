@@ -10,6 +10,7 @@ DATE:06/06/23
 |Mango  | 60  	| 35 Kg|RAJESH,KOLKATA
 |Apple  | 120   | 65 Kg|RAJU,KASHMIR
 |Grapes | 170  	| 20Kg|RAJ,KOLKATA
+|PAPAYA | 120  	|  50Kg |VIKRAM,ASANSOL
 
 Date:07/06/23
 
