@@ -5,12 +5,17 @@ DATE:06/06/23
 |  FRUIT_NAME 	|  PRICE 	| QUANTITY| SALESMAN | PROFIT
 |---	|---|--- |---|--- |
 |  APPLE 	|  120 	| 20KG|BISHAL KUMAR|600|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
-|   	|   	|
+|   	MANGO|   100	|10KG|MD SHAHNAWAAZ |300|
+|   LITCHI	|  150 	|30KG|ABHAY RANJAN BARA| 400|
+|  PEACH 	|   400	|5KG|MEHROBUDDIN MANDAL|1000|
+|   GUAVA	|   50	|10KG|SOURADATI PARUI|200|
+|   JACKFRUIT	|   100	|5KG|MD SHAHNAWAAZ| 400|
 
 
-TOTAL PROFIT ON 12/05/23 IS -----
+
+TOTAL PROFIT ON 12/05/23 IS 2900.
+
+DATE: 07/06/23
+
+|  FRUIT_NAME 	|  PRICE 	| QUANTITY| SALESMAN | PROFIT
+|---	|---|--- |---|--- |
