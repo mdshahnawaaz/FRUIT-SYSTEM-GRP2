@@ -13,7 +13,7 @@ IN THIS FILE GIVES WHAT FRUITS ARE PRESENT IN STOCK
 |    Grapes   | 105 Kg|
 |LITHCHI | 500 kg|
 |   PEACH     |    55 kg|
-|Papaya  |50 kg |
+|Papaya  |25 kg |
 |Mango  | 125 Kg
 
 

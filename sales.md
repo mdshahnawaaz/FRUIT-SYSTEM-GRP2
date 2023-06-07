@@ -19,3 +19,7 @@ DATE: 07/06/23
 
 |  FRUIT_NAME 	|  PRICE 	| QUANTITY| SALESMAN | PROFIT
 |---	|---|--- |---|--- |
+| PAPAYA  	|   120	| 25Kg   |JULUM KUMAR|  4000  |
+|   	|   	|    |
+|   	|   	|    |
+|   	|   	|    |
