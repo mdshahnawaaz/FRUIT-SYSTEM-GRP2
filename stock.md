@@ -5,15 +5,15 @@ IN THIS FILE GIVES WHAT FRUITS ARE PRESENT IN STOCK
 |---	|---	|
 |   	APPLE|   345 Kg	|
 |   BANANA	|   215 PIECES	|
-|   GUAVA	|   20 Kg	|
+|   GUAVA	|   10 Kg	|
 |  WATERMELON 	|   50 Kg	|
 |   CUCUMBER	|  20 Kg |
-|   Jackfruit	|  50 kg 	|
+|   Jackfruit	|  45 kg 	|
 |   Kaju	|   	400 kg|
 |    Grapes   | 105 Kg|
-|LITHCHI | 530 kg|
-|   PEACH     |    60 kg|
+|LITHCHI | 500 kg|
+|   PEACH     |    55 kg|
 |Papaya  |50 kg |
-|Mango  | 135 Kg
+|Mango  | 125 Kg
 
 
